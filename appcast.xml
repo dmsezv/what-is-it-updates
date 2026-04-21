@@ -7,6 +7,18 @@
         <link>https://raw.githubusercontent.com/dmsezv/what-is-it-updates/main/appcast.xml</link>
         <description>WhatIsIt changelog</description>
         <language>ru</language>
+                <item>
+            <title>Version 1.0.1</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 21 Apr 2026 19:27:45 +0300</pubDate>
+            <enclosure
+                url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.1/WhatIsIt-v1.0.1-20260421.dmg"
+                sparkle:edSignature="+USLOJYxbInhFRABZWpd8R0xBtg9pSEY1Z3zzc1WvxJqC0iIdIpi4TFJ+hXS0n0TMF7Oeh4JlTVmNYz0vLZFDA=="
+                length="54508172"
+                type="application/octet-stream"/>
+        </item>
         <item>
             <title>Version 1.0.0</title>
             <sparkle:version>1</sparkle:version>
