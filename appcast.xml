@@ -7,7 +7,20 @@
         <link>https://raw.githubusercontent.com/dmsezv/what-is-it-updates/main/appcast.xml</link>
         <description>WhatIsIt changelog</description>
         <language>ru</language>
-                                                                        <item>
+                                                                                <item>
+            <title>Version 1.0.9</title>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 21 Apr 2026 21:27:42 +0300</pubDate>
+            <sparkle:criticalUpdate/>
+            <enclosure
+                url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.9/WhatIsIt-v1.0.9-20260421.dmg"
+                sparkle:edSignature="OYXIZcoPqMhCH/rbtz8pU2bxE48q2WOKBLhNh9B2mMTadF0v7KkKaV9XLWRWLAFMqQ8ZHT/bW8fBbDa0z2XKAA=="
+                length="54223735"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.8</title>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
@@ -18,19 +31,6 @@
                 url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.8/WhatIsIt-v1.0.8-20260421.dmg"
                 sparkle:edSignature="b/JqsqycKJp2Wzp/WprXYOi3pAVgSoe8HGzWDEgT26DpObf0F0HxZ/RdHG4dVIcT4/iL2K4bBcy6J3mmYjT7Dw=="
                 length="54920075"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.0.7</title>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <pubDate>Tue, 21 Apr 2026 21:09:31 +0300</pubDate>
-            <sparkle:criticalUpdate/>
-            <enclosure
-                url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.7/WhatIsIt-v1.0.7-20260421.dmg"
-                sparkle:edSignature="ZCwyk2fIIiGwFeVnK06eaobHW/RpAxa4Q/0kmthITc+bD402tZEMghjN+mvsqo910v69IdWJ8sAG0rVF1DA3DA=="
-                length="54497467"
                 type="application/octet-stream"/>
         </item>
     </channel>
