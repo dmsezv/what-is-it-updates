@@ -7,7 +7,20 @@
         <link>https://raw.githubusercontent.com/dmsezv/what-is-it-updates/main/appcast.xml</link>
         <description>WhatIsIt changelog</description>
         <language>ru</language>
-                        <item>
+                                <item>
+            <title>Version 1.0.3</title>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 21 Apr 2026 19:44:39 +0300</pubDate>
+            <sparkle:criticalUpdate/>
+            <enclosure
+                url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.3/WhatIsIt-v1.0.3-20260421.dmg"
+                sparkle:edSignature="gosPjGJnyorLihwju6/uSXUtXFMRePR0D9MzJP9U0CFkAqLHvumRYibUQcgJwizxhaAw6hk1Gs7djWApDlzkCw=="
+                length="54253512"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.2</title>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
@@ -17,18 +30,6 @@
                 url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.2/WhatIsIt-v1.0.2-20260421.dmg"
                 sparkle:edSignature="0rUMQck1eKTwmpyq26tHCC+LFgHfdylBTgElAerGUtKswcbcctHxxv5r27smsuPkPM9669dAT6d8QYLOh4HAAA=="
                 length="54351131"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.0.1</title>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <pubDate>Tue, 21 Apr 2026 19:27:45 +0300</pubDate>
-            <enclosure
-                url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.1/WhatIsIt-v1.0.1-20260421.dmg"
-                sparkle:edSignature="+USLOJYxbInhFRABZWpd8R0xBtg9pSEY1Z3zzc1WvxJqC0iIdIpi4TFJ+hXS0n0TMF7Oeh4JlTVmNYz0vLZFDA=="
-                length="54508172"
                 type="application/octet-stream"/>
         </item>
     </channel>
