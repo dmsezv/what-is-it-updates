@@ -7,7 +7,19 @@
         <link>https://raw.githubusercontent.com/dmsezv/what-is-it-updates/main/appcast.xml</link>
         <description>WhatIsIt changelog</description>
         <language>ru</language>
-                <item>
+                        <item>
+            <title>Version 1.0.2</title>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 21 Apr 2026 19:30:57 +0300</pubDate>
+            <enclosure
+                url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.2/WhatIsIt-v1.0.2-20260421.dmg"
+                sparkle:edSignature="0rUMQck1eKTwmpyq26tHCC+LFgHfdylBTgElAerGUtKswcbcctHxxv5r27smsuPkPM9669dAT6d8QYLOh4HAAA=="
+                length="54351131"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.1</title>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
@@ -17,18 +29,6 @@
                 url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.1/WhatIsIt-v1.0.1-20260421.dmg"
                 sparkle:edSignature="+USLOJYxbInhFRABZWpd8R0xBtg9pSEY1Z3zzc1WvxJqC0iIdIpi4TFJ+hXS0n0TMF7Oeh4JlTVmNYz0vLZFDA=="
                 length="54508172"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.0.0</title>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <pubDate>Tue, 21 Apr 2026 19:07:22 +0300</pubDate>
-            <enclosure
-                url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.0/WhatIsIt-v1.0-20260421.dmg"
-                sparkle:edSignature="sdNxEQWk1QQ6tVQSlvvM3LtLH9wvHlaZGMnWui6q/Am/4Gx+Pu8rdRRxyHIt5uSTg9AzpM3yt/DUgv5ZqmIxCg=="
-                length="54076536"
                 type="application/octet-stream"/>
         </item>
     </channel>
