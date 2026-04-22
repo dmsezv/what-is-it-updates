@@ -7,7 +7,20 @@
         <link>https://raw.githubusercontent.com/dmsezv/what-is-it-updates/main/appcast.xml</link>
         <description>WhatIsIt changelog</description>
         <language>ru</language>
-                                                                                                                                        <item>
+                                                                                                                                                <item>
+            <title>Version 1.0.15</title>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 22 Apr 2026 13:57:21 +0300</pubDate>
+            <sparkle:criticalUpdate/>
+            <enclosure
+                url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.15/WhatIsIt-v1.0.15-20260422.dmg"
+                sparkle:edSignature="6Pe2DBSkGK+QrrboKB/OeUXMiynsmhnsbpTlGMN6XLvmzlUUGHkfvqPvncQbGa6M5+yWWmD2rOQpsb6xF8NfDg=="
+                length="54924465"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.14</title>
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
@@ -18,19 +31,6 @@
                 url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.14/WhatIsIt-v1.0.14-20260422.dmg"
                 sparkle:edSignature="enyKs72iJECrooJOZSVDzB37vljLCTSzZYA26KrvRYSW7Qc/GqVsxktYYbsiPuKLPP0EXaG43frWIVGJsDEjCQ=="
                 length="54220203"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.0.13</title>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <pubDate>Wed, 22 Apr 2026 13:41:12 +0300</pubDate>
-            <sparkle:criticalUpdate/>
-            <enclosure
-                url="https://github.com/dmsezv/what-is-it-updates/releases/download/v1.0.13/WhatIsIt-v1.0.13-20260422.dmg"
-                sparkle:edSignature="Pe1GzOcTh9Yts+JoQari7n523i5e5qwYOvepz0iO5teo0jYhMzzg8Vjfr2UsVZs5o2ShN6xrvLzVsDizCcNRAg=="
-                length="54829023"
                 type="application/octet-stream"/>
         </item>
     </channel>
